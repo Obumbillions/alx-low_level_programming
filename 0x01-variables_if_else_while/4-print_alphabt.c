@@ -12,9 +12,9 @@ int main(void)
 	{
 		if (ch != 'e' && ch != 'q')
 		{
-			putachar(ch)
+			putachar(ch);
 		}
-		ch++
+		ch++;
 	}
 	putchar('\n');
 	return (0);
