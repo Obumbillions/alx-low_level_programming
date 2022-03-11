@@ -12,7 +12,7 @@ int main(void)
 	{
 		if (ch != 'e' && ch != 'q')
 		{
-			putachar(ch);
+			putchar(ch);
 		}
 		ch++;
 	}
