@@ -1,4 +1,4 @@
-#include <studio.h>
+#include <stdio.h>
 /**
  * main - prints all possible combinations of single-digits numbers
  * Return: Always 0 (success)
